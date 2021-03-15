@@ -59,3 +59,9 @@ git clone https://github.com/dmalletteRU/Acting3_2021.git
 First step to beginning work is to ensure that you are not working on something that is already being worked on as that can cause merging issues with the files. Example, if the index.htlm is being worked on but the style.css file is not, feel free to work on the style.css file and submit a pull request.
 
 To start working, choose what you want to do and create a branch with one or two works to describe what you are working on. Make your additions and changes and then push to Github. Once you are done working on that branch submit a pull request and include if you want the branch to be deleted or not. The pull request will be reviewed and merged into the main branch.
+
+You can open the acting-three.code-workspace file to open the directory tree of files right in Visual Studio Code and start working.
+
+## Working on Pages
+
+The style.css file will be for global styles, anything page specific should be done in a style tag in the head to make things simpler and avoid breaking other pages.
